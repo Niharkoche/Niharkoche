@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python project, try learning from everyone 
 - 📫 How to reach me niharkoche30@gmail.com
 - 😄 Pronouns: code knihgt 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: it's day one
 
 <!---
 Niharkoche/Niharkoche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
