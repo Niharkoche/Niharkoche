@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nihark yyoche
-- 👀 I’m interested in ai, programming 
+- 👀 I’m interested in AI, programming 
 - 🌱 I’m currently learning Artificial intelligence and machine learning 
 - 💞️ I’m looking to collaborate on python project, try learning from everyone 
 - 📫 How to reach me niharkoche30@gmail.com
